@@ -2,14 +2,14 @@
 
 # Steps to run the project
 
-'''bash
+```bash
 python -m vemv env
-'''
+```
 
-'''bash
+```bash
 env/Scripts/activate
-'''
+```
 
-'''bash
+```bash
 pip install -r requirements.txt
-'''
+```
