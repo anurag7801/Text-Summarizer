@@ -2,6 +2,10 @@
 
 # Steps to run the project
 
+#### clone this repo
+```bash
+git clone https://github.com/anurag7801/Text-Summarizer.git
+```
 
 #### to create virtual environment
 ```bash
